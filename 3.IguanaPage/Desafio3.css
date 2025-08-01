@@ -103,11 +103,14 @@ body {
     justify-content:center;
 }
 .bloque5{
-    color:white;
     background-color: #1E1A13;
     text-align: center;
     height: 102px;
     width: 1280px;
+}
+
+.bloque5 ,a{
+    color:white;
 }
 .imagen3 img {
     margin-top: 73px;
