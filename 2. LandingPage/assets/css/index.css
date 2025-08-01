@@ -1,0 +1,65 @@
+*{
+    margin: 0; /* espacio externo de la caja*/
+    padding: 0; /* espacio interno de la caja*/
+}
+
+#body-img{
+    background-color:rgb(211, 193, 153);
+}
+
+.claseHeader{
+    background-image: url("../img/img4.png");
+    background-size: cover; /*cubrir todo el espacio*/
+    height: 500px; /*altura del header*/
+    align-items: center; /*alinear verticalmente*/
+    display: flex; /*mostrar como flexbox*/
+    justify-content: center; /*cenntrar horizontalmente*/
+    width: 100%; /*ancho del header*/
+}
+
+.tituloPrincipal{
+    font-family: 'Courier New', Courier, monospace; /* tipo de fuente*/
+    font-weight: 500; /* peso de la fuente */
+    text-align: center; /* alineación del texto */
+    font-size: 70px; /* tamaño de la fuente */
+    color: white;
+}
+
+.subtitulo{
+    text-align: center;
+    color:azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif; /* tipo de fuente*/
+    margin-top: 30px;;
+}
+
+.img1, .img2, .img3{
+    border-radius: 30px; /* bordes redondeados */
+    margin-bottom: 20px; /* espacio debajo de la imagen */
+    margin-top: 250px; /* espacio encima de la imagen */
+    margin-left: 100px; /* espacio a la izquierda de la imagen */
+    width: 500px; /* ancho de la imagen */
+    height: 500px; /* alto de la imagen */
+}
+
+.texto{
+    margin-left: 650px;
+    margin-top: -300px;
+    margin-right: 300px;
+    font-size: 20px;
+}
+
+.ins{
+    background-color: rgba(5, 5, 68, 0.849);
+    text-align: center;
+    margin-top: 250px;
+    padding: 30px;
+}
+
+.ins a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+

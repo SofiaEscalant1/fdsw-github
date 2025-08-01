@@ -1,0 +1,76 @@
+/*body {
+    height: 3000px;
+}*/
+.roboto-light{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #212529;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    }
+.card-head{
+    background-color: #28A745;
+    height: 62pt;
+    width: 320px;
+}
+.body {
+    font-family: "Roboto Light 300", sans-serif;
+    background-color: #0e2032;
+    padding: 20px;
+}
+.imagen_1 img {
+    border-radius: 8px 8px 0px 0px;
+}
+.card-title{
+    color: #212529;
+    text-align: left;
+    font-family: "Roboto light" 300;
+}
+.card-subtitle {
+    color: #707070;
+    text-align: left;
+}
+.location {
+    color: #707070
+}
+.section-price {
+    border-top: 1px solid  #DDDDDD;
+}
+.price-old {
+    font-size: 16pt;
+    font-weight: 300;
+    text-decoration: line-through;
+    color: #707070;
+    margin-top: 3cqi;
+}
+.price-new {
+    font-size: 20pt;
+    font-weight: 500;
+    color: #28A745;
+    margin-top: 3cqi;
+}
+.fa-map-marker-alt{
+    color: #707070;
+}
+.formulario {
+    height: 241px;
+}
+/*
+.bloque2 {
+    height: 2781px;
+    width: 320px;
+} */
+.btn-enviar:hover {
+    background-color: #E9ECEF !important;
+}
