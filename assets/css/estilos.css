@@ -37,3 +37,10 @@ body {
   }
 
 }
+
+/*  Para el tamaño del logo*/
+
+.img-fluid{
+  width: 130px;
+  height: 30px;
+}
